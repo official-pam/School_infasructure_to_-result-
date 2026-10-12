@@ -1,0 +1,18 @@
+# IDE settings
+.idea/
+.vscode/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Unzipped data and generated outputs (the zips in data/ are the source of truth)
+data/Cleaned CSVs/
+data/CSVs/
+Cleaned CSVs/
+pipeline_outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
